@@ -1,7 +1,0 @@
-\\psf\home\documents\visual studio 2013\Projects\Rain\Rain.Test\bin\Debug\Rain.Test.dll
-\\psf\home\documents\visual studio 2013\Projects\Rain\Rain.Test\bin\Debug\Rain.Test.pdb
-\\psf\home\documents\visual studio 2013\Projects\Rain\Rain.Test\obj\Debug\Rain.Test.csprojResolveAssemblyReference.cache
-\\psf\home\documents\visual studio 2013\Projects\Rain\Rain.Test\obj\Debug\Rain.Test.dll
-\\psf\home\documents\visual studio 2013\Projects\Rain\Rain.Test\obj\Debug\Rain.Test.pdb
-\\psf\home\documents\visual studio 2013\Projects\Rain\Rain.Test\bin\Debug\Rain.exe
-\\psf\home\documents\visual studio 2013\Projects\Rain\Rain.Test\bin\Debug\Rain.pdb

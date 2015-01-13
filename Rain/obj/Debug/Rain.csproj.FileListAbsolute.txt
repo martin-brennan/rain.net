@@ -1,9 +1,0 @@
-\\psf\home\documents\visual studio 2013\Projects\Rain\Rain\bin\Debug\Rain.exe.config
-\\psf\home\documents\visual studio 2013\Projects\Rain\Rain\obj\Debug\Rain.csprojResolveAssemblyReference.cache
-\\psf\home\documents\visual studio 2013\Projects\Rain\Rain\bin\Debug\Rain.exe
-\\psf\home\documents\visual studio 2013\Projects\Rain\Rain\bin\Debug\Rain.pdb
-\\psf\home\documents\visual studio 2013\Projects\Rain\Rain\obj\Debug\Rain.exe
-\\psf\home\documents\visual studio 2013\Projects\Rain\Rain\obj\Debug\Rain.pdb
-C:\repos\Rain\Rain\bin\Debug\Rain.exe.config
-C:\repos\Rain\Rain\obj\Debug\Rain.exe
-C:\repos\Rain\Rain\obj\Debug\Rain.pdb
