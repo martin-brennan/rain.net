@@ -36,5 +36,20 @@ namespace Rain.Test
             Assert.AreEqual(doc2.fileExt, ".cs");
             Assert.AreEqual(doc2.type, Rain.Doc.Type.CSHARP);
         }
+
+        [TestMethod]
+        public void ItShouldStoreMultipleDocParts()
+        {
+            Assert.AreEqual(doc.parts.Count, 0);
+        }
+
+        [TestMethod]
+        public void ItShouldAddANewDocPart()
+        {
+            doc.AddPart();
+            doc.AddPart();
+            Assert.IsTrue(doc.currentPart is Part);
+            Assert.AreEqual(doc.parts.Count, 1);
+        }
     }
 }
